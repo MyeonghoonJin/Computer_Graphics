@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\study\\\uCEF4\uADF8\\\uACFC\uC81C\\HW2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C7F5D0-C6FC-4599-9F6E-E2582EA5F0B6}|Hw2.vcxproj|C:\\Users\\pc\\Desktop\\study\\\uCEF4\uADF8\\\uACFC\uC81C\\HW2\\block_breaker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0C7F5D0-C6FC-4599-9F6E-E2582EA5F0B6}|Hw2.vcxproj|solutionrelative:block_breaker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "block_breaker.cpp",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\study\\\uCEF4\uADF8\\\uACFC\uC81C\\HW2\\block_breaker.cpp",
+              "RelativeDocumentMoniker": "block_breaker.cpp",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\study\\\uCEF4\uADF8\\\uACFC\uC81C\\HW2\\block_breaker.cpp",
+              "RelativeToolTip": "block_breaker.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T10:53:16.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
