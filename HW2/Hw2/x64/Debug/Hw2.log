@@ -1,0 +1,8 @@
+﻿  block_breaker.cpp
+C:\Users\pc\Desktop\study\컴그\과제\HW2\block_breaker.cpp(54,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Desktop\study\컴그\과제\HW2\block_breaker.cpp(55,22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Desktop\study\컴그\과제\HW2\block_breaker.cpp(67,38): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Desktop\study\컴그\과제\HW2\block_breaker.cpp(67,17): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Desktop\study\컴그\과제\HW2\block_breaker.cpp(201,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Desktop\study\컴그\과제\HW2\block_breaker.cpp(219,10): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Hw2.vcxproj -> C:\Users\pc\Desktop\study\컴그\과제\HW2\bin\x64\Hw2.exe
