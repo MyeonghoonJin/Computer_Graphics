@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: Output 디렉터리가 슬래시로 끝나지 않습니다. Output 디렉터리의 적절한 평가를 허용하는 데 필요하므로 이 빌드 인스턴스에서 슬래시를 추가합니다.
+  RobotArm.cpp
+C:\Users\pc\Desktop\study\컴그\과제\HW3\RobotArm.cpp(139,26): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\pc\Desktop\study\컴그\과제\HW3\RobotArm.cpp(139,18): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\pc\Desktop\study\컴그\과제\HW3\RobotArm.cpp(163,22): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Desktop\study\컴그\과제\HW3\RobotArm.cpp(164,31): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Desktop\study\컴그\과제\HW3\RobotArm.cpp(164,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Desktop\study\컴그\과제\HW3\RobotArm.cpp(170,25): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Desktop\study\컴그\과제\HW3\RobotArm.cpp(171,28): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Desktop\study\컴그\과제\HW3\RobotArm.cpp(171,15): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Desktop\study\컴그\과제\HW3\RobotArm.cpp(194,31): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Desktop\study\컴그\과제\HW3\RobotArm.cpp(194,20): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Desktop\study\컴그\과제\HW3\RobotArm.cpp(203,24): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Desktop\study\컴그\과제\HW3\RobotArm.cpp(210,25): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\Desktop\study\컴그\과제\HW3\RobotArm.cpp(219,15): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\pc\Desktop\study\컴그\과제\HW3\RobotArm.cpp(228,23): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RobotArm.vcxproj -> C:\Users\pc\Desktop\study\컴그\과제\HW3\usr\bin\RobotArm.exe
